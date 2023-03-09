@@ -43,6 +43,9 @@
 }
 
 .nav-text1 {
+    position:absolute;
+    top: 26px;
+    left: 873px;
     width: 56px;
     height: 16px;
     font-family: 'SB Sans Text';
@@ -61,6 +64,9 @@
 }
 
 .nav-text2 {
+    position:absolute;
+    top: 26px;
+    left: 945px;
     width: 87px;
     height: 16px;
     font-family: 'SB Sans Text';

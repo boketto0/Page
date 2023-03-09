@@ -31,4 +31,21 @@
     
 }
 
+.block-title__text {
+    position: absolute;
+    width: 692px;
+    height: 46px;
+    font-family: 'SB Sans Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #101828;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
 

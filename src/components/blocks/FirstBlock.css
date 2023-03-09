@@ -1,0 +1,34 @@
+
+
+.first-block {
+    position: relative;
+    top: 58px;
+    width: 1920px;
+    height: 1057px;
+    left: 0px;
+    top: 0px;
+    background: #F3F7FF
+}
+
+.block-circle1 {
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    left: 1525px;
+    top: -324px;
+    background: #006EFF;
+    filter: blur(350px)
+}
+
+.block-circle2 {
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    left: -204px;
+    top: 686px;
+    background: #83A2FF;
+    filter: blur(200px)
+    
+}
+
+

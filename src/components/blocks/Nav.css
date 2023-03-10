@@ -1,0 +1,86 @@
+.nav-block {
+    position: absolute;
+    width: 1920px;
+    height: 58px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(38, 38, 38, 0.04), 0px 3px 6px rgba(38, 38, 38, 0.16);
+}
+
+.nav-button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+    position: absolute;
+    width: 165px;
+    height: 32px;
+    left: 1727px;
+    top: 14px;
+    background: #006EFF;
+    border: 1px solid #006EFF;
+    border-radius: 6px;
+}
+
+.nav-button__text {
+    width: 109px;
+    height: 16px;
+    font-family: 'SB Sans Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: white;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.nav-text1 {
+    position:absolute;
+    top: 26px;
+    left: 873px;
+    width: 56px;
+    height: 16px;
+    font-family: 'SB Sans Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #797E8B;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.nav-text2 {
+    position:absolute;
+    top: 26px;
+    left: 945px;
+    width: 87px;
+    height: 16px;
+    font-family: 'SB Sans Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #797E8B;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+

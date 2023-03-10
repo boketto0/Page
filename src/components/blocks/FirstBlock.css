@@ -7,7 +7,7 @@
     height: 1057px;
     left: 0px;
     top: 0px;
-    background: #F3F7FF
+    background: #F3F7FF;
 }
 
 .block-circle1 {
@@ -33,6 +33,8 @@
 
 .block-title__text {
     position: absolute;
+    top: 132px;
+    left: 612px;
     width: 692px;
     height: 46px;
     font-family: 'SB Sans Text';
@@ -45,6 +47,25 @@
     color: #101828;
     flex: none;
     order: 0;
+    flex-grow: 0;
+}
+
+.block-text1 {
+    position: absolute;
+    top: 194px;
+    left: 614px;
+    width: 692px;
+    height: 46px;
+    font-family: 'SB Sans Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #006EFF;
+    flex: none;
+    order: 1;
     flex-grow: 0;
 }
 

@@ -13,12 +13,12 @@
 }
 
 .card1-circle { 
-    position: relative;
     left: -8.56%;
     right: 24.72%;
     top: -26.34%;
     bottom: 18.23%;
     background: #E2E9FD;
+    filter: blur(0px);
 }
 
 .card1-button1 {

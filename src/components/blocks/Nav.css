@@ -36,7 +36,7 @@
     line-height: 16px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: white;
     flex: none;
     order: 1;
     flex-grow: 0;
@@ -83,3 +83,4 @@
     order: 0;
     flex-grow: 0;
 }
+
